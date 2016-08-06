@@ -1,0 +1,12 @@
+#big files
+*.gz
+
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Strore?
+
+##data directory
+data/
